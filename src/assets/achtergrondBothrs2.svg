@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="441px" height="440px" viewBox="0 0 441 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="19.7446534%" cy="8.683262%" fx="19.7446534%" fy="8.683262%" r="101.067236%" gradientTransform="translate(0.197447,0.086833),scale(0.999455,1.000000),rotate(50.860405),scale(1.000000,1.394926),translate(-0.197447,-0.086833)" id="radialGradient-1">
+            <stop stop-color="#1DE2DB" offset="0%"></stop>
+            <stop stop-color="#6EFFFA" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-53.000000, -244.000000)" fill="url(#radialGradient-1)">
+            <path d="M250.636719,683.792969 C380.136719,686.714844 451.859839,614.295853 488.78125,500.867187 C506.96875,444.992188 474.921875,330.832031 293.328125,260.402344 C111.734375,189.972656 91.7695313,373.632812 63.6693127,468.356972 C29.7584739,582.668385 81.3423799,679.973224 250.636719,683.792969 Z" id="Oval"></path>
+        </g>
+    </g>
+</svg>
